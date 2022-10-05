@@ -1,14 +1,8 @@
 # Jake McMillan's Developer Profile
 
-## Table of Contents
-
-- [Description](#description)
-- [Usage](#usage)
-- [Questions](#questions)
-
 ## Description
 
-## Usage
+This is my employee profile where you can find my resume, browse my portfolio of work, and how to reach me.
 
 ## Questions
 [https://github.com/jakewmcmillan](https://github.com/jakewmcmillan)
