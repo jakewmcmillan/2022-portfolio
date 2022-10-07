@@ -6,3 +6,4 @@ This is my employee profile where you can find my resume, browse my portfolio of
 
 ## Questions
 [https://github.com/jakewmcmillan](https://github.com/jakewmcmillan)
+Email: jakewmcmillan@gmail.com
